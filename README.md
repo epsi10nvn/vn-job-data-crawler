@@ -1,7 +1,7 @@
----
 # **Vietnam Data Job Market Crawler with Scrapy and Selenium**
 
 This project is designed to scrape job-related data from **VietnamWorks**, **TopCV**, and **LinkedIn**. The data is extracted using **Scrapy** and **Selenium**, and for LinkedIn, it leverages the **ScrapingDog API** to bypass restrictions. After scraping, the data can be stored in a **SQL Server Database** using **pyodbc** for further analysis.
+
 ---
 
 ## **Features**
