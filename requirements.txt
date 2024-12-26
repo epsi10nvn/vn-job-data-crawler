@@ -6,3 +6,5 @@ seleniumbase==4.32.12
 webdriver_manager==4.0.2
 Scrapy==2.11.2
 pyodbc==5.2.0
+Flask==3.1.0
+Flask-Cors==5.0.0

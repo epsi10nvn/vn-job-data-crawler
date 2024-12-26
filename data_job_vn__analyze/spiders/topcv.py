@@ -55,7 +55,7 @@ class TopcvSpider(scrapy.Spider):
     name = "topcv"
     allowed_domains = ["www.topcv.vn"]
     start_urls = ["https://www.topcv.vn/"]
-    key_word = 'AI, Machine Learning, Deep Learning'
+    key_word = 'data engineer'
 
     def start_requests(self):
         url = self.start_urls[0]
